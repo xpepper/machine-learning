@@ -4,8 +4,7 @@
 [Khan Academy math courses](https://www.khanacademy.org/math/), from basic to calculus (free).
 
 ## Machine Learning
-* ["Il Machine Learning spiegato agli umani"](https://www.youtube.com/watch?v=V55B3thsz3I), by Paolo "Nusco" Perrotta (italian content
-).
+* ["Il Machine Learning spiegato agli umani"](https://www.youtube.com/watch?v=V55B3thsz3I), by Paolo "Nusco" Perrotta (italian content).
 * [Andrew Ng's Machine Learning course](https://www.coursera.org/learn/machine-learning), offered by Standford (free).
 
 ## Deep Learning
